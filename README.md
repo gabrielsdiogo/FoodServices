@@ -1,1 +1,1 @@
-# FoodServices project back-end
+# FoodServices project
